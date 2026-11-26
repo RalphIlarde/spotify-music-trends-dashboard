@@ -9,6 +9,12 @@ The Spotify Music Trends Dashboard explores patterns in music data through inter
 
 The project combines data preprocessing, exploratory data analysis, and interactive visualization to make music-related data easier to explore and interpret.
 
+## Live Dashboard
+
+Explore the interactive Spotify Music Trends Dashboard:
+
+[Open Spotify Music Trends Dashboard](https://spotify-music-trends-dashboard-htgjjmuhsyng6dh4wmkpm3.streamlit.app/)
+
 ## Project Objectives
 
 - Analyze track popularity and identify patterns across music genres.
